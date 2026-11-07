@@ -1,0 +1,10 @@
+[project]
+name = "lesson-05-how-llms-work"
+version = "0.1.0"
+description = "Agentic AI Zero to Hero, lesson 5: your first LLM call"
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=1.50",
+    "python-dotenv>=1.0",
+    "tiktoken>=0.8",
+]

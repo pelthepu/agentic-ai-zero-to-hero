@@ -19,7 +19,7 @@
 
 ## For developers
 
-Anthropic splits agentic systems into **workflows** (LLMs and tools run on code paths you wrote) and **agents** (the LLM chooses its own steps and tools). An LLM plugged into a fixed workflow is not Agentic AI. In lesson 3 we write the loop that turns an LLM into an agent.
+Anthropic splits agentic systems into **workflows** (LLMs and tools run on code paths you wrote) and **agents** (the LLM chooses its own steps and tools). An LLM plugged into a fixed workflow is not Agentic AI. Lesson 3 shows the loop that turns an LLM into an agent, and lesson 8 writes it in Python.
 
 ## Further reading
 
