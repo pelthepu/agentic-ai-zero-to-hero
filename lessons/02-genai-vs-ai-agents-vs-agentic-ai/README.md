@@ -1,6 +1,8 @@
 # Lesson 2: Generative AI vs AI Agents vs Agentic AI
 
-**Video:** (link coming) · **Files:** [cheat sheet](cheatsheet.pdf) · [slides](slides.pdf)
+**Video:** [Watch on YouTube](https://youtu.be/jUW7izhTcH0) (10:04) · **Course:** [full playlist](https://www.youtube.com/playlist?list=PLExTFh0CQIwU) · **Files:** [cheat sheet](cheatsheet.pdf)
+
+[![Generative AI vs AI Agents vs Agentic AI](https://img.youtube.com/vi/jUW7izhTcH0/maxresdefault.jpg)](https://www.youtube.com/watch?v=jUW7izhTcH0)
 
 ![Cheat sheet](cheatsheet.png)
 
