@@ -14,7 +14,7 @@ A free course that takes you from zero to production-ready Agentic AI. Over the 
 | 1 | [What Is Agentic AI? 70 Years of AI, Explained Simply](lessons/01-what-is-agentic-ai) · [▶ video](https://www.youtube.com/watch?v=WrUSY7RLuFs) | Cheat sheet, chapters, quiz |
 | 2 | [Generative AI vs AI Agents vs Agentic AI](lessons/02-genai-vs-ai-agents-vs-agentic-ai) · [▶ video](https://www.youtube.com/watch?v=jUW7izhTcH0) | Cheat sheet, quiz |
 | 3 | [How Agentic AI Works: The Agent Loop, Explained Simply](lessons/03-how-agentic-ai-works) · [▶ video](https://www.youtube.com/watch?v=_IFipLedyiA) | Cheat sheet, chapters, quiz |
-| 4 | Inside an Agentic AI System: Complete Architecture Explained | Cheat sheet, slides, quiz |
+| 4 | [What's Inside an AI Agent? Agentic AI Architecture Explained](lessons/04-agentic-ai-architecture) · [▶ video](https://www.youtube.com/watch?v=j-K575DRUS8) | Parts map, chapters, quiz |
 | 5 | [How LLMs Work for Developers](lessons/05-how-llms-work) | **First code:** call an LLM, count tokens |
 | 6 | Choosing the Right LLM (and Running One Locally) | Code: one prompt, 3 models |
 | 7 | Prompt Engineering Essentials | Code: TripPilot's system prompt |

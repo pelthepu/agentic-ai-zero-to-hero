@@ -146,4 +146,4 @@ Pick one goal from your own life, like "Plan my friend's birthday party." Write 
 
 - Anthropic, [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) (2024)
 
-**Next:** Lesson 4: Inside an Agentic AI System · **Previous:** [Lesson 2](../02-genai-vs-ai-agents-vs-agentic-ai)
+**Next:** [Lesson 4: What's Inside an AI Agent?](../04-agentic-ai-architecture) · **Previous:** [Lesson 2](../02-genai-vs-ai-agents-vs-agentic-ai)
